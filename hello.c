@@ -1,7 +1,10 @@
 /**
  * Author: Morgan McArthur
- *         mmcarthur2@unl.edu
- * Date: 2021/08/24
+ *        mmcarthur2@unl.edu
+ * 
+ * Collaborator: Connor Mahony
+ * 
+ * Date: 2021/08/26
  *
  * A simple hello world program in C
  *
